@@ -2,7 +2,7 @@
 ```
 npm install wechaty
 npm install wechaty-puppet-ioscat
-WECHATY_PUPPET=mock npm run demo
+WECHATY_PUPPET=ioscat npm run demo
 ```
 
 ## INTRO
