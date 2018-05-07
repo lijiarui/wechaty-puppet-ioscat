@@ -1,0 +1,17 @@
+{
+  "name": "wechaty-puppet-ioscat",
+  "version": "0.0.1",
+  "description": "Wechaty Puppet based on breakjailed ios client",
+  "engines": {
+      "wechaty": ">=0.16.x"
+  },
+  "wechaty": {
+      "properties": {
+          "myConfigKey": {
+              "type": "string",
+              "default": "it's the default value",
+              "description": "It defines my awesome config!"
+          }
+      }
+  }
+}
